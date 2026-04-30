@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd stackforge && npm install && npm run build",
-  "outputDirectory": "stackforge/.next",
-  "installCommand": "echo 'skipping root install'",
-  "framework": "nextjs"
-}
