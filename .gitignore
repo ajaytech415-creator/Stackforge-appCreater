@@ -1,2 +1,6 @@
 
 public/builds/
+
+node_modules/
+public/builds/
+stackforge/public/builds/
